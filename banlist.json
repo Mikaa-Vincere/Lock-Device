@@ -1,0 +1,10 @@
+[
+  {
+    "username": "banneduser",
+    "device": "123456789abcdef0"
+  },
+  {
+    "username": "tester",
+    "device": "fedcba9876543210"
+  }
+]
