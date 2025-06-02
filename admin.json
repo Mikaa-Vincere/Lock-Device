@@ -1,4 +1,5 @@
 {
-  "Mikaa": "Mikaa123",
-  "Admin": "Admin123"
+  "admins": [
+    {"username": "Mikaa", "password": "Admin123", "device_id": "25f64283a60548c6"}
+  ]
 }
