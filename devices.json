@@ -1,10 +1,5 @@
 {
-  "Mikaa": {
-    "password": "Admin123",
-    "device": "25f64283a60548c6"
-  },
-  "user2": {
-    "password": "xyz456",
-    "device": "7h8g6f5e4d3c2b1a"
-  }
+  "username": "Mikaa",
+  "password": "Mikasa",
+  "device_id": "25f64283a60548c6"
 }
